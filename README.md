@@ -1,5 +1,5 @@
 # Data Journalism with Data Visualization
-## Crime in Chicago: A Tale of Progress and Perseverance - Exploring 7 Million Reported Crimes: An Analysis of Crime Trends Across 22 Variables
+## Crime in Chicago: A Tale of Progress and Perseverance - Exploring 7 Million Reported Crimes: An Analysis of Crime Trends Across 22 Variables with ArcGIS
 
 Published in JOULE is a joint research project funded under the Erasmus+ Programme:<br>
 https://www.jouleproject.eu/2023/07/06/crime-in-chicago-in-22-years/
