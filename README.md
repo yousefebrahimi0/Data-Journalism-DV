@@ -1,8 +1,10 @@
 # Data Journalism with Data Visualization
-## Crime in Chicago: A Tale of Progress and Perseverance
+## Crime in Chicago: A Tale of Progress and Perseverance - Exploring 7 Million Reported Crimes: An Analysis of Crime Trends Across 22 Variables
 
 Published in JOULE is a joint research project funded under the Erasmus+ Programme:<br>
 https://www.jouleproject.eu/2023/07/06/crime-in-chicago-in-22-years/
+
+Dataset course: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
 
 Chicago has long struggled with high rates of violent crime, earning it unfavorable nicknames like "Chiraq." However, a recent analysis of crime data from 2000-2022 reveals a more nuanced story of both progress and perseverance in the city's battle against crime.
 
